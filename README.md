@@ -1,1 +1,1 @@
-arch_install_hyperland
+badg
